@@ -1,6 +1,6 @@
 # Github_hw_2
 
-###На локальном репозитории сделать ветки для:
+###На локальном репозитории сделать ветки для:###
 - Postman      		--git branch Postman
 - Jmeter       		--git branch Jmeter
 - CheckLists   		--git branch CheckLists
